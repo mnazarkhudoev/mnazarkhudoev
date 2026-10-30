@@ -20,9 +20,9 @@ Based in Dushanbe, Tajikistan, and open to remote work.
 
 ## Experience
 
-```text
+
 experience   3 years, backend-focused full-stack
 domains      healthcare, logistics, warehouse and inventory
 work         REST APIs, authentication, data modelling, query tuning
 teams        remote work for a US client, university development teams
-```
+
